@@ -1,2 +1,27 @@
-
-/* Your CSS Code here. */
+.container{
+  background-color:  #3e2723 ;
+  border:5px solid green;
+  box-sizing:content-box; 
+}
+.row > div{
+  height: 200px;
+  border:2px dotted black;
+}
+.e1{
+  background-color: #088F8F;
+}
+.e2{
+  background-color: Thistle;
+}
+.e3{
+  background-color:   #e74c3c;
+}
+.e4{
+  background-color:  #48c9b0 ;
+}
+.e5{
+  background-color: #bb8fce;
+}
+.e6{
+  background-color:   #c0ca33 ;
+}
